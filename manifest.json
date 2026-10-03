@@ -1,8 +1,9 @@
 {
+  "id": "viva-companion-a1",
   "name": "V.I.V.A. Companion A1",
   "short_name": "Companion A1",
   "description": "Ejercicios de gramática de inglés A1, módulo por módulo.",
-  "start_url": "./index.html",
+  "start_url": "./index.html?src=pwa",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

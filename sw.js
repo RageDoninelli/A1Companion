@@ -1,4 +1,4 @@
-const C = 'viva-companion-a1-v1';
+const C = 'viva-companion-a1-v2';
 const CORE = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png', 'm01.js'];
 
 self.addEventListener('install', e => {

@@ -123,7 +123,7 @@ MODS[1] = {
         "B: It's kmoore19@cup.org."
       ] },
 
-    { n: "10A", t: "Hello and good-bye! Complete the conversations.", h: "Elige la expresión correcta.",
+    { n: "10", t: "Hello and good-bye! Complete the conversations.", h: "Elige la expresión correcta.",
       items: [
         "1. A: [Hi.] How are you?\nB: I'm fine, thanks.",
         { p: "2. A: ____", o: ["Hello.", "Good-bye."], a: 1 },
@@ -132,20 +132,6 @@ MODS[1] = {
         "B: Yes, I am. It's nice to meet you.",
         { p: "4. A: ____", o: ["Good evening.", "Good night."], a: 0 },
         "B: Hello."
-      ] },
-
-    { n: "10B", t: "Match the pictures with the conversations in part A.", h: "¿A qué conversación (1–4) corresponde cada imagen?",
-      items: [
-        "# Conversations",
-        "1. “Hi. How are you?”",
-        "2. “Good-bye. See you tomorrow.”",
-        "3. “Excuse me. Are you Min-ji Park?”",
-        "4. “Good evening. Hello.”",
-        "# Pictures",
-        "a. Two friends wave in a hallway. [1]",
-        { p: "b. A woman talks to a woman who is eating.", o: ["1", "2", "3", "4"], a: 2 },
-        { p: "c. A waitress with a menu talks to a couple.", o: ["1", "2", "3", "4"], a: 3 },
-        { p: "d. A man waves from a door at a man in a suit.", o: ["1", "2", "3", "4"], a: 1 }
       ] }
   ]
 };
